@@ -1,2 +1,1 @@
-# LRRF-NAF
-LRRF-NAF code
+- MSRRA-NAF: Multi-Scale Relative Resolution Attention-Guided X-Ray 3D Reconstruction via Neural Attenuation Field
